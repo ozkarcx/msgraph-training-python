@@ -1,4 +1,4 @@
-1.# Build Python apps with Microsoft Graph 
+# 1.Build Python apps with Microsoft Graph 
 
 [![Pylint](https://github.com/microsoftgraph/msgraph-training-python/actions/workflows/pylint.yml/badge.svg)](https://github.com/microsoftgraph/msgraph-training-python/actions/workflows/pylint.yml)
 
